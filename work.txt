@@ -4,3 +4,9 @@ Let's do my homework
 this is branch
 
 this is second branch
+
+
+a = int(input("첫 번째 수:"))
+b = int(input("두 번째 수:"))
+
+print(a+b)
